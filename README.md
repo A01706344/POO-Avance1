@@ -12,3 +12,6 @@ En caso de quere porbrar el proyecto solamente nesecitas descargar el archivo "E
 
 O en caso de nesecitar el codigo es necesario descargar los archivos "EntregableFinal.cpp" asi como tambien las librerias que son los
 archivos ".h" para que el programa funcione de manera correcta.
+
+
+Ya pronto estara disponible el entregable final por el momento el mas reciente es el Avance 4
