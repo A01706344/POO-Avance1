@@ -1,0 +1,10 @@
+Pan-15$
+Agua-10$
+Hielo-20$
+Cafe-40$
+Papa-25$
+Manzana-55$
+Chocolate-60$
+Leche-24$
+Queso-70$
+Huevo-60$

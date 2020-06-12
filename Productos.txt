@@ -1,0 +1,10 @@
+Pan
+Agua
+Hielo
+Cafe
+Papa
+Manzana
+Chocolate
+Leche
+Queso
+Huevo
