@@ -11,7 +11,5 @@ la funcion de pagar la cual te da la opcion de pagar con efectivo o tarjeta.
 En caso de quere porbrar el proyecto solamente nesecitas descargar el archivo "EntregaFinal.exe"
 
 O en caso de nesecitar el codigo es necesario descargar los archivos "EntregableFinal.cpp" asi como tambien las librerias que son los
-archivos ".h" para que el programa funcione de manera correcta.
+archivos ".h" para que el programa funcione de manera correcta y ademas tambien es nesecesario que descargues el archivo "Productos.txt".
 
-
-Ya pronto estara disponible el entregable final por el momento el mas reciente es el Avance 4
